@@ -1,7 +1,7 @@
 
 # InitVerse Mainnet Auto transactions Bot  
 
-![Tampilan Bot](image.png)
+![Tampilan Bot](image.jpg)
 
 ## Getting Started  
 
