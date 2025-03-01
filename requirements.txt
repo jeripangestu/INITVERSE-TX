@@ -1,0 +1,5 @@
+web3==7.6.1
+eth-account
+colorlog
+playwright>=1.40.0
+rich

@@ -1,0 +1,11 @@
+{
+  "private_keys": [
+    "pk1",
+    "pk2",
+    "pk3"
+
+  ],
+  "timeout_after_trades": 1,
+  "timeout_within_trades": 30,
+  "send_amount": 0.000000015
+}
