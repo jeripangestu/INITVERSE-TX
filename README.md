@@ -1,8 +1,7 @@
 
 # InitVerse Mainnet Auto transactions Bot  
 
-
-A Python-based bot for interacting with the InitVerse mainnet. Automates tasks like performing trades and completing periodic Twitter tasks.  
+![Tampilan Bot](image.png)
 
 ## Getting Started  
 
