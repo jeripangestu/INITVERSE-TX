@@ -20,7 +20,7 @@ Follow these steps to set up and run the bot.
 
 #### 1. Clone the Repository  
 ```bash
-git clone 
+git clone https://github.com/jeripangestu/INITVERSE-TX.git
 cd INITVERSE-TX
 ```
 
