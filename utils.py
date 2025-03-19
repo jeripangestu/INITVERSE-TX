@@ -39,7 +39,7 @@ timeout_after_trades = data['timeout_after_trades']
 timeout_within_trades = data['timeout_within_trades']
 send_amount = data['send_amount']
 
-RPC_URL = 'http://rpc-mainnet.inichain.com'
+RPC_URL = 'https://rpc-pemulung.xyz'
 BASE_URL = 'https://candyapi-mainnet.inichain.com/airdrop/api/v1'
 
 web3 = Web3(Web3.HTTPProvider(RPC_URL))
